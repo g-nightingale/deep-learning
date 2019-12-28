@@ -22,3 +22,4 @@ Sequence[[:space:]]Models/Week[[:space:]]1/Dinosaur[[:space:]]Island[[:space:]]-
 Sequence[[:space:]]Models/Week[[:space:]]3/Trigger[[:space:]]word[[:space:]]detection/Trigger+word+detection+-+v1.ipynb filter=lfs diff=lfs merge=lfs -text
 Convolutional[[:space:]]Neural[[:space:]]Networks/Week[[:space:]]2/ResNets/Residual+Networks+-+v2.ipynb filter=lfs diff=lfs merge=lfs -text
 Convolutional[[:space:]]Neural[[:space:]]Networks/Week[[:space:]]3/Car[[:space:]]detection[[:space:]]for[[:space:]]Autonomous[[:space:]]Driving/Autonomous+driving+application+-+Car+detection+-+v1.ipynb filter=lfs diff=lfs merge=lfs -text
+Convolutional[[:space:]]Neural[[:space:]]Networks/Week[[:space:]]2/ResNets/ResNet50.h5 filter=lfs diff=lfs merge=lfs -text
